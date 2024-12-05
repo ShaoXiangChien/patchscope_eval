@@ -1,0 +1,6 @@
+.env
+/data
+/extra_data
+/.streamlit
+/.venv
+.DS_Store
